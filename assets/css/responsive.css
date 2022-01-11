@@ -1,0 +1,40 @@
+@media(max-width:576px){
+    .welcome-col-min{
+        text-align: center;
+    }
+    .welcome-col-min ul{
+        justify-content: center !important;
+    }
+    .welcome-icon li i{
+        margin-top: -15px !important;
+    }
+    .slider-con{
+        text-align: center !important;
+    }
+    .content-con.gb{
+        display: block !important;
+    }
+}
+@media(max-width:992px){
+    .navbar-light .navbar-nav .nav-link{
+        margin: auto;
+    }
+    .about-con{
+        padding: 0;
+    }
+    .service-con{
+        text-align: center !important;
+        margin-top: 70px;
+    }
+    .content-con.gb{
+        display: none;
+    }
+}
+@media (max-width:1200px){
+    .about_con p:nth-child(2){
+        display: none;
+    }
+}
+@media (max-width:768px){
+    
+}
